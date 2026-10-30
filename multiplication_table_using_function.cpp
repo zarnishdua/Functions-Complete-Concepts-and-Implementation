@@ -8,8 +8,8 @@ void table(int n){
 
 int main(){
  int n;
- cout<<"Enter a number ";
- cin>>n;
+	cout<<"Enter a number :";
+	cin>>n;
  table(n);
 	return 0;
 }
